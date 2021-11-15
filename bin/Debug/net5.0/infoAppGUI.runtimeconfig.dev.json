@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/moilim/.dotnet/store/|arch|/|tfm|",
+      "/home/moilim/.nuget/packages"
+    ]
+  }
+}
